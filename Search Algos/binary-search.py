@@ -44,8 +44,8 @@ arr = [ 10, 20, 30, 40, 50 ]
 left = 0
 right = len( arr ) - 1
 
-# Perform linear search for the value 20 in the array
+# Perform Binary search for the value 20 in the array
 print( "Element found at index :: ", recursiveBinarySearch( arr, left, right, 40 ) )
 
-# Perform linear search for the value 320 in the array
+# Perform Binary search for the value 320 in the array
 print( "Element found at index :: ", binarySearch( arr, left, right, 10 ) )
