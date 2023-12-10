@@ -13,5 +13,5 @@ def selectionSort( arr ) :
     return arr
 
 
-arr = [ 1,66,44, 101 ,2,7,99 ]
+arr = [ 177,66,44, 101 ,2,7,99 ]
 print( "Sorted array:: ", selectionSort( arr ) )
